@@ -1,0 +1,10 @@
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\bin\Debug\AgacProje.exe.config
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\bin\Debug\AgacProje.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\bin\Debug\AgacProje.pdb
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.csprojAssemblyReference.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.Form1.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.Properties.Resources.resources
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.csproj.GenerateResource.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.csproj.CoreCompileInputs.cache
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.exe
+C:\Users\cemay\OneDrive\Masaüstü\dersler\deneme klasörü\AgacProje\AgacProje\obj\Debug\AgacProje.pdb
